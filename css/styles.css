@@ -35,7 +35,7 @@ body {
 .link:focus {
     color: #404bbf;
 }
-.contacts-list{
+.contacts{
     font-style: normal
 }
 .contacts-item {
