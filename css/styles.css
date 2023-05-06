@@ -16,6 +16,7 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
 }
+
 .link {
     text-decoration: none;
 }
@@ -62,9 +63,11 @@ body {
 .contacts-item:focus {
     color: #404bbf
 }
+
 .service {
     background-color: #2e2f42;
 }
+
 .service-name {
     font-size: 56px;
     line-height: 1.07;
@@ -72,6 +75,7 @@ body {
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
+
 .service-button {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
@@ -83,12 +87,15 @@ body {
     color: #FFFFFF;
     cursor: pointer;
 }
+
 .service-button:hover {
     background-color: #404BBF
 }
+
 .service-button:focus {
     background-color: #404BBF
 }
+
 .principles-header {
     font-weight: 500;
     font-size: 20px;
@@ -96,6 +103,7 @@ body {
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
+
 .principles-paragraph {
     font-weight: 400;
     font-size: 16px;
@@ -103,6 +111,7 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
+
 .activity {
     font-size: 36px;
     line-height: 1.11;
@@ -111,9 +120,11 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
+
 .team {
     background-color: #F4F4FD
 }
+
 .team-header {
     font-size: 36px;
     line-height: 1.11;
@@ -122,12 +133,15 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
+
 .team-list-item {
     background-color: #FFFFFF;
 }
+
 .footer-index {
     background-color: #2e2f42;
 }
+
 .logo-footer {
     font-family: "Raleway", sans-serif;
     font-style: normal;
@@ -136,9 +150,30 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5; 
+    color: #4d5ae5;
 }
 
 .logo-span-footer {
     color: #f4f4fd;
+}
+
+.button-list-item {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+}
+
+.button-list-item:hover {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.button-list-item:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
 }
